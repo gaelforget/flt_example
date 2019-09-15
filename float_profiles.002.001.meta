@@ -1,0 +1,9 @@
+ nDims = [   3 ];
+ dimList = [
+     2,    2,    2,
+     2,    1,    1,
+    41,    1,   41
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [   810 ];
+ timeStepNumber = [      17280 ];
